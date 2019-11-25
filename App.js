@@ -1,7 +1,7 @@
 import React from 'react';
-import { StyleSheet, Text, View, FlatList, Button } from 'react-native';
+import { StyleSheet, Text, View, FlatList } from 'react-native';
 import Item from './item'
-// import Button from './Button'
+import Button from './Button'
 import datos from './Datos'
 
 export default class App extends React.Component {
